@@ -418,6 +418,12 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #7e9b9f;
 }
+#header2-1u .mbr-section-text {
+  color: #553982;
+}
+#header2-1u .mbr-section-text B {
+  color: #ffffff;
+}
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }

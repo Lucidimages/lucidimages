@@ -31,7 +31,8 @@
     "headbody": "",
     "botbody": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -89,8 +90,16 @@
             }
           },
           "title": "Welcome to Lucid &nbsp;Image Creations&nbsp;",
-          "text": "We capture spectacular 4K aerial &nbsp;footage, &nbsp;and clearly amazing photos.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "<b>We capture spectacular 4K aerial &nbsp;footage, &nbsp;and clearly amazing photos.&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#553982"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -194,6 +203,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#f3c649"
+            }
+          },
           "_anchor": "features3-13",
           "_params": {
             "paddingTop": "1",
@@ -304,12 +318,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#f3c649"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -565,6 +574,15 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "17px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -619,16 +637,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1f",
-          "articleLayout": false,
-          "_styles": {
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SPAN": {
-              "font-size": "17px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "social-buttons2",
@@ -665,6 +674,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1e",
           "_params": {
             "labelsColor": "#232323",
@@ -710,12 +724,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1386,6 +1395,11 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header4-15",
           "_params": {
             "parallax": true,
@@ -1408,18 +1422,18 @@
           },
           "title": "Lucid Mind Videos",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#cccccc"
+            }
+          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1475,12 +1489,7 @@
           },
           "_anchor": "gallery1-17",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#cccccc"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "gallery1",
@@ -1906,7 +1915,7 @@
                 "tags": "Animated",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/217280949",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-52-329.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-52-320.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
                 "caption": "Lucid Sample",
@@ -1916,7 +1925,7 @@
                 "tags": "Awesome",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/218106975",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-51-4010.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-51-401.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
                 "caption": "Tennessee",
@@ -1936,7 +1945,7 @@
                 "tags": "Animated",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/218106975",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-51-1911.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-51-192.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Tennessee 2",
