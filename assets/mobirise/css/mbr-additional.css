@@ -566,11 +566,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-a .link {
-  font-size: 0.75rem;
+  font-size: 1.1rem;
 }
 #ext_menu-a .dropdown-item,
 #ext_menu-a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.191rem;
 }
 #ext_menu-a .link:hover,
 #ext_menu-a .dropdown-item:hover,
@@ -962,9 +962,6 @@ h6,
 }
 #header4-1w .mbr-section-title {
   color: #ffffff;
-}
-#gallery1-1x .mbr-gallery-item > div > span {
-  color: #cccccc;
 }
 #social-buttons3-1z .mbr-section-title,
 #social-buttons3-1z .btn-social {

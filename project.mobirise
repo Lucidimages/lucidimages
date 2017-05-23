@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lucid Images",
-    "currentPage": "index.html",
+    "currentPage": "creations equipment",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 79,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -50,6 +50,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#553982"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header2-1u",
           "_params": {
             "imageSize": 50,
@@ -91,15 +99,7 @@
           },
           "title": "Welcome to Lucid &nbsp;Image Creations&nbsp;",
           "text": "<b>We capture spectacular 4K aerial &nbsp;footage, &nbsp;and clearly amazing photos.&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#553982"
-            },
-            ".mbr-section-text B": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -196,7 +196,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lucid Image Creations</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-13\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
         },
         {
           "_tags": [
@@ -539,7 +539,7 @@
           "_anchor": "contacts1-n",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -551,10 +551,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-1-228x1283.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -567,7 +567,7 @@
           },
           "text1": "<br>",
           "text2": "",
-          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get in touch with me.</b></span><br>"
+          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get <a href=\"Contact us\">in touch </a>with me.</b></span><br>"
         },
         {
           "_tags": [
@@ -590,7 +590,7 @@
             "timeout": "4",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=1j6UUh-Iv3Q",
@@ -618,7 +618,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -628,8 +628,8 @@
                 "title": "IMAGE SLIDE",
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
@@ -846,10 +846,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -916,7 +916,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lucid Image Creations</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-13\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
         },
         {
           "_inherit": "header1",
@@ -1203,7 +1203,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/lucidaerialphotography/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/lucidaerialphotography/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>Twitter</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/lucidaerialphotography/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\"></span>Google +</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/lucidaerialphotography/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/lucidaerialphotography/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"twitter.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>Twitter</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://plus.google.com/u/0/110981618610121405281\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\"></span>Google +</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Instagram.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a> "
         },
         {
           "_tags": [
@@ -1254,7 +1254,7 @@
           "_anchor": "contacts1-n",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1266,10 +1266,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-1-228x1283.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1282,7 +1282,7 @@
           },
           "text1": "<br>",
           "text2": "",
-          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get in touch with me.</b></span><br>"
+          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get <a href=\"Contact us\">in touch </a>with me.</b></span><br>"
         }
       ]
     },
@@ -1373,10 +1373,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/asset-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-1-228x1283.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1387,7 +1387,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lucid Image Creations</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-13\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
         },
         {
           "_inherit": "header1",
@@ -1727,7 +1727,7 @@
           "_anchor": "contacts1-1d",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1739,10 +1739,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-1-228x1283.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1755,7 +1755,7 @@
           },
           "text1": "<br>",
           "text2": "",
-          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get in touch with me.</b></span><br>"
+          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get <a href=\"Contact us\">in touch </a>with me.</b></span><br>"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lucid Image Creations</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-13\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
         },
         {
           "_inherit": "header1",
@@ -2137,7 +2137,7 @@
           "_anchor": "contacts1-1s",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2165,7 +2165,7 @@
           },
           "text1": "<br>",
           "text2": "",
-          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get in touch with me.</b></span><br>"
+          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get <a href=\"Contact us\">in touch </a>with me.</b></span><br>"
         }
       ]
     },
@@ -2256,10 +2256,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/asset-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-1-228x1283.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2270,7 +2270,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lucid Image Creations</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-13\">FEATURES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact us\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\">&nbsp; Contact Us</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"creations equipment\"><font face=\"et-line\"><span style=\"font-weight: normal; line-height: 6.5px;\">Camera Equipment</span></font></a></li>"
         },
         {
           "_inherit": "header1",
@@ -2311,131 +2311,126 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#cccccc"
-            }
-          },
+          "_name": "features3",
+          "_anchor": "features3-26",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/217280949",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-52-32.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Lucid Sample",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/218106975",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-51-40.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Tennessee",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Beach Water",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/218106975",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-51-19.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Tennessee 2",
-                "active": false
-              }
-            ],
-            "spacing": "1",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#2969b0",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": false
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
           },
-          "_anchor": "gallery1-1x",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/217280949",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-57-05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1336-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1336.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/218106975",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-58-10.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img951713-2000x1330-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/img951713-2000x1330.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/217280949",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-57-50.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1336-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1336.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/218106975",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-19-00-58-22.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img951567-2000x1336-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img951567-2000x1336.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/phantom-3-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
           },
-          "_anchor": "gallery3-1y",
-          "articleLayout": false,
-          "allItem": "All"
+          "title1": "DJI Phantom 3&nbsp;",
+          "subtitle1": "Drone",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/panasonic-lumix-g7-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Panasonic Lumix DMC-G7",
+          "subtitle2": "Camera",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sony-a6000-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Sony Alpha a6000",
+          "subtitle3": "Camera",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rodea-mic-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<br><br>RØDE VideoMic",
+          "subtitle4": "Microphone",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/s40-handheld-stabilizer-600x607.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "S40 Steadicam&nbsp;",
+          "subtitle5": "Stabilizer",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gopro-hero-5-600x480.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "GoPro Hero 5",
+          "subtitle6": "Camera",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -2610,7 +2605,7 @@
           "_anchor": "contacts1-24",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2638,7 +2633,7 @@
           },
           "text1": "<br>",
           "text2": "",
-          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get in touch with me.</b></span><br>"
+          "text3": "<span style=\"line-height: 1.5;\"><b>Thanks for checking out my work. Feel free to get <a href=\"Contact us\">in touch </a>with me.</b></span><br>"
         }
       ]
     }
