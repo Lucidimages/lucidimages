@@ -55,12 +55,13 @@
               "color": "#553982"
             },
             ".mbr-section-text B": {
-              "color": "#ffffff"
+              "color": "#553982",
+              "font-size": "18px"
             }
           },
           "_anchor": "header2-1u",
           "_params": {
-            "imageSize": "65",
+            "imageSize": "64",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
@@ -71,7 +72,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,

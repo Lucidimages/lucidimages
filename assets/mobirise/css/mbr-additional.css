@@ -416,7 +416,8 @@ h6,
   color: #553982;
 }
 #header2-1u .mbr-section-text B {
-  color: #ffffff;
+  color: #553982;
+  font-size: 18px;
 }
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
