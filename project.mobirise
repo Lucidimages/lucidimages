@@ -515,7 +515,7 @@
           "HTMLCode": "<h1><a href=\"https://www.pond5.com/?ref=Jbishop1186\"><img style=\"width: 500px; height: 167px; float: right;\" alt=\"Royalty-Free Stock Video at Pond5\" src=\"https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg\"></a></h1>",
           "_styles": {
             "H3": {
-              "text-align": "left"
+              "text-align": "right"
             }
           }
         },
