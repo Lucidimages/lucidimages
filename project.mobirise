@@ -28,8 +28,8 @@
     "favicon": "",
     "noImageResize": "",
     "html_before": "",
-    "headbody": "<object width=\"480\" height=\"303\" type=\"application/x-shockwave-flash\" id=\"embid326046\" data=\"https://www.pond5.com/stock-footage/75627392/calm-stream.html\">\r\n<param name=\"movie\" value=\"https://www.pond5.com/stock-footage/75627392/calm-stream.html\" />\r\n<param name=\"wmode\" value=\"opaque\"/>\r\n<param name=\"allowscriptaccess\" value=\"always\"/>\r\n<param name=\"allowfullscreen\" value=\"true\"/>\r\n<param name=\"flashvars\" value=\"hideController=no&amp;itemid=326046&amp;orgClipWidth=1920&amp;orgClipHeight=1080&amp;debug=no&amp;hqFLV=yes&amp;filetype=flv&amp;server=prod&amp;cj=yes&amp;username=jbishop1186\" />\r\n<embed src=\"https://www.pond5.com/stock-footage/75627392/calm-stream.html\" width=\"480\" height=\"303\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"opaque\" flashvars=\"hideController=no&amp;itemid=326046&amp;orgClipWidth=1920&amp;orgClipHeight=1080&amp;debug=no&amp;hqFLV=yes&amp;filetype=flv&amp;server=prod&amp;cj=yes&amp;username=jbishop1186\"></embed>\r\n</object>\r\n",
-    "botbody": "<object width=\"480\" height=\"303\" type=\"application/x-shockwave-flash\" id=\"embid75627067\" data=\"https://www.pond5.com/stock-footage/75627392/calm-stream.html\"><param name=\"movie\" value=\"https://www.pond5.com/stock-footage/75627392/calm-stream.html\"/><param name=\"wmode\" value=\"opaque\"/><param name=\"allowscriptaccess\" value=\"always\"/><param name=\"allowfullscreen\" value=\"true\"/><param name=\"flashvars\" value=\"hideController=no&itemid=75627067&orgClipWidth=3840&orgClipHeight=2160&debug=no&hqFLV=yes&filetype=flv&server=prod&cj=yes&username=Jbishop1186\" /><embed src=\"https://www.pond5.com/stock-footage/75627392/calm-stream.html\" width=\"480\" height=\"303\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"opaque\" flashvars=\"hideController=no&itemid=75627067&orgClipWidth=3840&orgClipHeight=2160&debug=no&hqFLV=yes&filetype=flv&server=prod&cj=yes&username=Jbishop1186\"></embed></object>",
+    "headbody": "",
+    "botbody": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "screenshot": "screenshot.png"
@@ -490,48 +490,14 @@
           "allItem": "All"
         },
         {
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-2c",
-          "_params": {
-            "blockTitle": "<h3>Check out my videos for sale on Pond5 </h3><br><h3>click below and search \"<i>lucid_images</i>\"</h3>",
-            "HTMLCode": "<object width=\"480\" height=\"303\" type=\"application/x-shockwave-flash\" id=\"embid75627067\" data=\"https://www.pond5.com/pond5flashplayer2.swf\"><param name=\"movie\" value=\"https://www.pond5.com/pond5flashplayer2.swf\" /><param name=\"wmode\" value=\"opaque\"/><param name=\"allowscriptaccess\" value=\"always\"/><param name=\"allowfullscreen\" value=\"true\"/><param name=\"flashvars\" value=\"hideController=no&amp;itemid=75627067&amp;orgClipWidth=3840&amp;orgClipHeight=2160&amp;debug=no&amp;hqFLV=yes&amp;filetype=flv&amp;server=prod&amp;cj=yes&amp;username=Jbishop1186\" /><embed src=\"https://www.pond5.com/pond5flashplayer2.swf\" width=\"480\" height=\"303\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"opaque\" flashvars=\"hideController=no&amp;itemid=75627067&amp;orgClipWidth=3840&amp;orgClipHeight=2160&amp;debug=no&amp;hqFLV=yes&amp;filetype=flv&amp;server=prod&amp;cj=yes&amp;username=Jbishop1186\"></embed></object>",
-            "paddingTop": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "extEdit": true
-          },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "<h3>Check out my videos for sale on Pond5 </h3><br><h3>click below and search \"<i>lucid_images</i>\"</h3>",
-          "HTMLCode": "<object width=\"480\" height=\"303\" type=\"application/x-shockwave-flash\" id=\"embid75627067\" data=\"https://www.pond5.com/pond5flashplayer2.swf\"><param name=\"movie\" value=\"https://www.pond5.com/pond5flashplayer2.swf\"><param name=\"wmode\" value=\"opaque\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"flashvars\" value=\"hideController=no&amp;itemid=75627067&amp;orgClipWidth=3840&amp;orgClipHeight=2160&amp;debug=no&amp;hqFLV=yes&amp;filetype=flv&amp;server=prod&amp;cj=yes&amp;username=Jbishop1186\"><embed src=\"https://www.pond5.com/pond5flashplayer2.swf\" width=\"480\" height=\"303\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"opaque\" flashvars=\"hideController=no&amp;itemid=75627067&amp;orgClipWidth=3840&amp;orgClipHeight=2160&amp;debug=no&amp;hqFLV=yes&amp;filetype=flv&amp;server=prod&amp;cj=yes&amp;username=Jbishop1186\"></object>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "OBJECT": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_anchor": "footer1-10",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -852,8 +818,8 @@
           },
           "_anchor": "footer1-1c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1198,8 +1164,8 @@
           },
           "_anchor": "footer1-c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1775,8 +1741,8 @@
           },
           "_anchor": "footer1-1c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2192,8 +2158,8 @@
           },
           "_anchor": "footer1-1r",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2517,8 +2483,8 @@
           },
           "_anchor": "footer1-23",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

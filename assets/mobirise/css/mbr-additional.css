@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 
@@ -496,12 +495,6 @@ h6,
 #social-buttons3-6 .mbr-section-title {
   font-size: 36px;
   color: #efefef;
-}
-#htmlblock-block-2c H3 {
-  text-align: left;
-}
-#htmlblock-block-2c OBJECT {
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 
