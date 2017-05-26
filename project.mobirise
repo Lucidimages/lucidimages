@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Lucid Images",
-    "currentPage": "Creations Equipment",
+    "name": "Lucid Image Creations",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 84,
+    "uniqCompNum": 85,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -60,7 +60,7 @@
           },
           "_anchor": "header2-1u",
           "_params": {
-            "imageSize": "61",
+            "imageSize": "65",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
@@ -487,6 +487,36 @@
           "_anchor": "gallery4-2",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-2c",
+          "_params": {
+            "blockTitle": "<h3>Check out my videos for sale on Pond5 </h3><br><h3>click below and search \"<i>lucid_images</i>\"</h3>",
+            "HTMLCode": "<h1><a href='https://www.pond5.com/?ref=Jbishop1186'><img style='width:500px;height:167px;' alt='Royalty-Free Stock Video at Pond5' src='https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg' /></a></h1>",
+            "paddingTop": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "<h3>Check out my videos for sale on Pond5 </h3><br><h3>click below and search \"<i>lucid_images</i>\"</h3>",
+          "HTMLCode": "<h1><a href=\"https://www.pond5.com/?ref=Jbishop1186\"><img style=\"width: 500px; height: 167px; float: right;\" alt=\"Royalty-Free Stock Video at Pond5\" src=\"https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg\"></a></h1>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
