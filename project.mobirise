@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -498,7 +498,7 @@
           "_anchor": "htmlblock-block-2c",
           "_params": {
             "blockTitle": "<h3>Check out my videos for sale on Pond5 </h3><br><h3>click below and search \"<i>lucid_images</i>\"</h3>",
-            "HTMLCode": "<h1><a href='https://www.pond5.com/?ref=Jbishop1186'><img style='width:500px;height:167px;' alt='Royalty-Free Stock Video at Pond5' src='https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg' /></a></h1>",
+            "HTMLCode": "<a href='https://www.pond5.com/?ref=Jbishop1186'><img style='width:500px;height:167px;' alt='Royalty-Free Stock Video at Pond5' src='https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg' /></a>",
             "paddingTop": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -512,10 +512,10 @@
           },
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "blockTitle": "<h3>Check out my videos for sale on Pond5 </h3><br><h3>click below and search \"<i>lucid_images</i>\"</h3>",
-          "HTMLCode": "<h1><a href=\"https://www.pond5.com/?ref=Jbishop1186\"><img style=\"width: 500px; height: 167px; float: right;\" alt=\"Royalty-Free Stock Video at Pond5\" src=\"https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg\"></a></h1>",
+          "HTMLCode": "<a href='https://www.pond5.com/?ref=Jbishop1186'><img style='width:500px;height:167px;' alt='Royalty-Free Stock Video at Pond5' src='https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg' /></a>",
           "_styles": {
             "H3": {
-              "text-align": "right"
+              "text-align": "left"
             }
           }
         },
@@ -538,6 +538,22 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Lucid Image Creations. All Rights Reserved."
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2d",
+          "_params": {
+            "_customHTML": "<a href='https://www.pond5.com/?ref=Jbishop1186'><img style='width:500px;height:167px;' alt='Royalty-Free Stock Video at Pond5' src='https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg' /></a>",
+            "_customCSS": "",
+            "ExtEdit": true
+          },
+          "_customCSS": "",
+          "_customHTML": "<a href='https://www.pond5.com/?ref=Jbishop1186'><img style='width:500px;height:167px;' alt='Royalty-Free Stock Video at Pond5' src='https://www.pond5.com/images/pages/affiliate_program/banner_500x167@2x-331a712cda.jpg' /></a>",
+          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>"
         }
       ]
     },
